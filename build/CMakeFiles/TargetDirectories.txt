@@ -1,0 +1,5 @@
+/home/s5325378/Desktop/ase-assignment-Nonanike/raytracing/BlankNGL/build/CMakeFiles/rebuild_cache.dir
+/home/s5325378/Desktop/ase-assignment-Nonanike/raytracing/BlankNGL/build/CMakeFiles/BlankNGL.dir
+/home/s5325378/Desktop/ase-assignment-Nonanike/raytracing/BlankNGL/build/CMakeFiles/edit_cache.dir
+/home/s5325378/Desktop/ase-assignment-Nonanike/raytracing/BlankNGL/build/CMakeFiles/BlankNGL_autogen_timestamp_deps.dir
+/home/s5325378/Desktop/ase-assignment-Nonanike/raytracing/BlankNGL/build/CMakeFiles/BlankNGL_autogen.dir
